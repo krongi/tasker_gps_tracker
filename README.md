@@ -1,0 +1,1 @@
+Wanted to make a GPS tracker with an old phone. No SIM/service needed.
